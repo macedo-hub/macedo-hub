@@ -16,16 +16,16 @@
 
 === Português ===
 
-👋 Oi, eu sou @macedo-hub (Lucas Emanuel Nóbrega de Macêdo)
+  👋 Oi, eu sou @macedo-hub (Lucas Emanuel Nóbrega de Macêdo)
 
-👀 Estou interessado em tecnologia, programação e inovação.
+  👀 Estou interessado em tecnologia, programação e inovação.
 
-🌱 Atualmente, estou aprendendo sistemas de computadores, desenvolvimento de software e tecnologias web.
+  🌱 Atualmente, estou aprendendo sistemas de computadores, desenvolvimento de software e tecnologias web.
 
-💞️ Estou buscando colaborar em projetos open-source, ferramentas educacionais e desenvolvimento de jogos.
+  💞️ Estou buscando colaborar em projetos open-source, ferramentas educacionais e desenvolvimento de jogos.
 
-📫 Como entrar em contato: Você pode falar comigo pelo WhatsApp ou por e-mail.
+  📫 Como entrar em contato: Você pode falar comigo pelo WhatsApp ou por e-mail.
 
-😄 Pronomes: Ele/Dele
+  😄 Pronomes: Ele/Dele
 
-⚡ Curiosidade: Adoro explorar o mundo dos jogos e criar novas experiências no Roblox.
+  ⚡ Curiosidade: Adoro explorar o mundo dos jogos e criar novas experiências no Roblox.
