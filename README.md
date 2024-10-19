@@ -40,12 +40,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/macedo-hub/macedo-hub/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/zrswdl0xzm43i878q5fpr0nq0">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zrswdl0xzm43i878q5fpr0nq0&count=3&unique=false" alt="Spotify recently played"  />
