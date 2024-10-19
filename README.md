@@ -14,8 +14,9 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/lucass.nobregaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram%20Pessoal-%231C1C1C?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.instagram.com/macedo.hub/" target="_blank"><img src="https://img.shields.io/badge/-Instagram%20Projetos-%231C1C1C?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/lucass.nobregaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram%20Pessoal-%231C1C1C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/macedo.hub/" target="_blank"><img src="https://img.shields.io/badge/-Instagram%20Projetos-%231C1C1C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=558499256483&text=Hi,%20I%20came%20across%20your%20profile%20on%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%231C1C1C?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div> 
  
 ### Main skills:
