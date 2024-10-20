@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e4984a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4984a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Emanuel+Nóbrega;I'm+16+years+old;I+am+from+Parelhas,+RN;I+study+Informatics+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4984a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Emanuel+Nóbrega+de+Macêdo;I'm+16+years+old;I+am+from+Parelhas,+RN;I+study+Informatics+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=macedo-hub&show_icons=true&count_private=true&hide_border=true&title_color=e4984a&icon_color=e4984a&text_color=D3D3D3&bg_color=1C1C1C" alt="Lucas Emanuel github stats" /> 
