@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e4984a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4984a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Emanuel+Nóbrega+de+Macêdo;I'm+16+years+old;I+am+from+Parelhas,+RN;I+study+Informatics+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4984a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Emanuel+Nóbrega;I'm+16+years+old;I+am+from+Parelhas,+RN;I+study+Informatics+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=macedo-hub&show_icons=true&count_private=true&hide_border=true&title_color=e4984a&icon_color=e4984a&text_color=D3D3D3&bg_color=1C1C1C" alt="Lucas Emanuel github stats" /> 
@@ -16,8 +16,9 @@
 <div align="center">  
 <a href="https://www.instagram.com/lucass.nobregaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram%20Pessoal-%231C1C1C?style=for-the-badge&logo=instagram&logoColor=e4984a"</a>
 <a href="https://www.instagram.com/macedo.hub/" target="_blank"><img src="https://img.shields.io/badge/-Instagram%20Projetos-%231C1C1C?style=for-the-badge&logo=instagram&logoColor=e4984a"</a>
+<a href="https://api.whatsapp.com/send?phone=558499256483&text=Hi,%20I%20came%20across%20your%20profile%20on%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%231C1C1C?style=for-the-badge&logo=whatsapp&logoColor=e4984a"</a>
 </div> 
- 
+
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-1C1C1C?style=for-the-badge&logo=python&labelColor=1C1C1C&logoColor=e4984a)&nbsp;
 
